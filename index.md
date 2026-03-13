@@ -108,12 +108,14 @@ Any updates will be posted on this page with a revised "Last updated" date.
 
 Users are encouraged to review this policy periodically.
 
+
 ---
+
 
 ## 8. Account Deletion
 
 Users can request account deletion by contacting:
-salmaskillvera@gmail.com
+[salmaskillvera@gmail.com](mailto:salmaskillvera@gmail.com)
 
 All personal data associated with the account will be deleted unless required for legal obligations.
 ---
