@@ -110,7 +110,16 @@ Users are encouraged to review this policy periodically.
 
 ---
 
-## 8. Contact Us
+## 8. Account Deletion
+
+Users can request account deletion by contacting:
+salmaskillvera@gmail.com
+
+All personal data associated with the account will be deleted unless required for legal obligations.
+---
+
+
+## 9. Contact Us
 
 If you have any questions regarding this Privacy Policy, you can contact us at:
 
