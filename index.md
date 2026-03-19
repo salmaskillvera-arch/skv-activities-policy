@@ -21,7 +21,7 @@ When creating an account or using our services, we may collect:
 * Full name
 * Email address
 * Account information
-* Profile data
+* Profile data (such as age and gender for activity suitability)
 
 ### Location Data
 
@@ -43,6 +43,24 @@ We may automatically collect:
 * Crash logs and diagnostics
 
 This information helps us improve the performance and stability of the application.
+
+### Health and Sensitive Data
+
+SKV Activities app does **NOT** collect, access, or share any sensitive health data from users' devices (such as heart rate, sleep data, or medical records).
+
+The only information related to physical suitability that may be collected includes:
+
+* Age
+* Gender
+
+This information is used solely to:
+
+* Ensure that selected activities are appropriate for the user
+* Comply with safety and regulatory requirements
+
+Any additional activity-related requirements (such as weight limits or fitness level) are presented as **informational guidelines only** within activity details.
+
+We do **NOT** store, process, or analyze any health-related data beyond what is stated above.
 
 ---
 
@@ -108,9 +126,7 @@ Any updates will be posted on this page with a revised "Last updated" date.
 
 Users are encouraged to review this policy periodically.
 
-
 ---
-
 
 ## 8. Account Deletion
 
@@ -118,8 +134,8 @@ Users can request account deletion by contacting:
 [salmaskillvera@gmail.com](mailto:salmaskillvera@gmail.com)
 
 All personal data associated with the account will be deleted unless required for legal obligations.
----
 
+---
 
 ## 9. Contact Us
 
