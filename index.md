@@ -141,5 +141,13 @@ All personal data associated with the account will be deleted unless required fo
 
 If you have any questions regarding this Privacy Policy, you can contact us at:
 
+---
+
+## 10. Copyright 
+
+All content, trademarks, and data on this service, including but not limited to software, databases, text, graphics, icons, and hyperlinks are the property of or licensed to Skillvera and as such are protected from infringement by local and international legislation and treaties.
+
+Copyright © 2026 Skillvera. All rights reserved.
+
 Support Email:
 [salmaskillvera@gmail.com](mailto:salmaskillvera@gmail.com)
