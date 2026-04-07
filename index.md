@@ -146,6 +146,8 @@ To enable service providers to receive event proceeds, the application collects 
 ## 10. Contact Us
 
 If you have any questions regarding this Privacy Policy, you can contact us at:
+Support Email:
+[salmaskillvera@gmail.com](mailto:salmaskillvera@gmail.com)
 
 ---
 
