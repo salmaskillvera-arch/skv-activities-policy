@@ -137,13 +137,19 @@ All personal data associated with the account will be deleted unless required fo
 
 ---
 
-## 9. Contact Us
+## 9. Payments Settlement and Financial Data Clause
+
+To enable service providers to receive event proceeds, the application collects the full name, bank account number (IBAN), and bank name. This data is used exclusively by Skillvera for the purpose of direct financial transfer via approved banking channels immediately after the event and upon the user's request. It is not disclosed or shared with any third parties outside the financial institutions involved in completing the transfer. This data is encrypted and stored in a secure environment that ensures complete privacy. The user has the right to request the deletion or modification of this data by contacting technical support. This is to ensure data accuracy due to its sensitivity and to avoid any obstacles that may affect the transfer of due funds.
+
+---
+
+## 10. Contact Us
 
 If you have any questions regarding this Privacy Policy, you can contact us at:
 
 ---
 
-## 10. Copyright 
+## 11. Copyright 
 
 All content, trademarks, and data on this service, including but not limited to software, databases, text, graphics, icons, and hyperlinks are the property of or licensed to Skillvera and as such are protected from infringement by local and international legislation and treaties.
 
